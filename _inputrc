@@ -1,6 +1,6 @@
-## pgup up
+## page up
 "\e[5~":history-search-backward
-## pgdown down
+## page down
 "\e[6~":history-search-forward
 ## arrow up
 ## "\e[A":history-search-backward
